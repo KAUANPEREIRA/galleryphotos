@@ -10,5 +10,7 @@ export const Container = styled.div`
     display: block;
     margin-bottom: 10px;
     border-radius: 10px;
+
+    cursor: pointer;
   }
 `;

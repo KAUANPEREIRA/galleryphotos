@@ -44,8 +44,14 @@ export const UploadForm = styled.form`
     background-color: #756df4;
     border: 0px;
     color: #fff;
+    margin: 0 20px;
     padding: 8px 16px;
+    cursor: pointer;
     font=size: 15px;
     border-radius: 10px;
+
+    &:hover {
+      opacity: 0.9;
+    }
   }
 `;
